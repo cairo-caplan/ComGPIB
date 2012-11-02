@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\glwidget.o
+./release\datastorage.o
+./release\commvisa.o
+./release\device.o
+./release\command.o
+./release\scriptmanager.o
+./release\moc_mainwindow.o
+./release\moc_glwidget.o
+);

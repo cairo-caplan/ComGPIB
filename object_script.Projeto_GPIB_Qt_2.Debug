@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\glwidget.o
+./debug\datastorage.o
+./debug\commvisa.o
+./debug\device.o
+./debug\command.o
+./debug\scriptmanager.o
+./debug\moc_mainwindow.o
+./debug\moc_glwidget.o
+);
